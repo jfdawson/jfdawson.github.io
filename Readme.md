@@ -1,7 +1,7 @@
 # Welcome to JFD's Github test
 
 ## Basic text
-Looks like this with _italic_ and *bold*
+Looks like this with _italic_ and **bold**
 
 ## Links
 YOu might find [York Elite](yorkelite.org) and [York Jiu Jitsu](yorkjiujitsu.org) of interest
